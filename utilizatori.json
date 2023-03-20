@@ -1,0 +1,10 @@
+{
+	"utilizatori":[
+        {"user":"Faustina", "parola":"faustina", "rol":"user"},
+        {"user":"Cristina", "parola":"cristina", "rol":"user"},
+        {"user":"Marian", "parola":"marian", "rol":"user"},
+        {"user":"Valentin", "parola":"valentin", "rol":"user"},
+        {"user":"Maria", "parola":"maria", "rol":"user"},
+        {"user":"admin", "parola":"admin", "rol":"admin"}
+	]
+}

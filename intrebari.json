@@ -1,0 +1,92 @@
+[
+	{
+		"intrebare": "Întrebarea 1 : Unde a fost descoperită cafeaua ?",
+		"variante": [
+            "Egipt",
+            "Etiopia",
+            "Asia"
+        ],
+		"corect": 1
+	},
+    {
+		"intrebare": "Întrebarea 2 : Unde a apărut pentru prima dată cafeaua în Europa ?",
+		"variante": [
+            "Veneția", 
+            "Franța", 
+            "Germania"
+        ],
+		"corect": 0
+	},
+    {
+		"intrebare": "Întrebarea 3 : Care e cel mai cunoscut sortiment de cafea ?",
+		"variante": [
+            "Arabică", 
+            "Robustă", 
+            "Liberică"
+        ],
+		"corect": 0
+	},
+    {
+		"intrebare": "Întrebarea 4 : Cine se află pe primul loc din punct de vedere al producției boabelor de cafea ?",
+		"variante": [
+            "Brazilia", 
+            "Argentina", 
+            "Spania"
+        ],
+		"corect": 0
+	},
+    {
+		"intrebare": "Întrebarea 5 : Cum putem prepara cafeaua ?",
+		"variante": [
+            "La ibric", 
+            "La cuptor", 
+            "La microunde"
+        ],
+		"corect": 1
+	},
+    {
+		"intrebare": "Întrebarea 6 : Unde se află cei mai mulți consumatori de cafea ?",
+		"variante": [
+            "România", 
+            "SUA", 
+            "Franța"
+        ],
+		"corect": 1
+	},
+    {
+		"intrebare": "Întrebarea 7 : Ce vitamină se găseste în cafea ?",
+		"variante": [
+            "B", 
+            "D", 
+            "A"
+        ],
+		"corect": 0
+	},
+    {
+		"intrebare": "Întrebarea 8 : Un efect negativ provocat de cafea este reprezentat de ?",
+		"variante": [
+            "insomnie", 
+            "tristețe", 
+            "dependență"
+        ],
+		"corect": 0
+	},
+    {
+		"intrebare": "Întrebarea 9 : În ce moment al zilei se recomandă să se consume cafeaua ?",
+		"variante": [
+            "dimineața", 
+            "la prânz", 
+            "seara"
+        ],
+		"corect": 0
+	},
+    {
+		"intrebare": "Întrebarea 10 : Îți place cafeaua de la noi?",
+		"variante": [
+            "Da", 
+            "Nu", 
+            "Poate"
+        ],
+		"corect": 0
+	}
+]
